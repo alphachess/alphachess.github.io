@@ -107,7 +107,7 @@ header h2 {
 
 a.button {
   display: block;
-  width: 199px;
+  width: 254px;
   padding: 12px 8px 12px 8px;
   margin: 0 auto;
   font-size: 15px;
@@ -330,6 +330,13 @@ footer a:hover {
 
 .headericon {
   padding-right: 34px;
+}
+
+.domain {
+  color: #aaa;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 38px;
 }
 
 
