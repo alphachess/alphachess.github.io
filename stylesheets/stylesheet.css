@@ -107,10 +107,9 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
   width: 179px;
   padding: 12px 8px 12px 8px;
-  margin-right: 14px;
+  margin: 0 auto;
   font-size: 15px;
   font-weight: bold;
   line-height: 25px;
@@ -165,7 +164,7 @@ a.button span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
 #view-on-github {
-  margin-right: 0;
+  margin: 0 auto;
 }
 
 code, pre {
