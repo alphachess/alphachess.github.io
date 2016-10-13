@@ -328,6 +328,11 @@ footer a:hover {
   color: #444;
 }
 
+.headericon {
+  padding-right: 34px;
+}
+
+
 /* MISC */
 .clearfix:after {
   display: block;
